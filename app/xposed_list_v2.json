@@ -256,32 +256,7 @@
         "25": "http://forum.xda-developers.com/xposed/10-31-2017-xposed-framework-v88-2-t3697756",
         "26": "http://forum.xda-developers.com/xposed/10-31-2017-xposed-framework-v88-2-t3697756"
       },
-      "installers": {
-        "24": [
-          {
-            "name": "Xposed-Framework-Unity",
-            "version": "v89/90b3r5",
-            "link": "https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity/archive/master.zip",
-            "architecture": "all"
-          }
-        ],
-        "25": [
-          {
-            "name": "Xposed-Framework-Unity",
-            "version": "v89/90b3r5",
-            "link": "https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity/archive/master.zip",
-            "architecture": "all"
-          }
-        ],
-        "26": [
-          {
-            "name": "Xposed-Framework-Unity",
-            "version": "v89/90b3r5",
-            "link": "https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity/archive/master.zip",
-            "architecture": "all"
-          }
-        ]
-      },
+      "installers": [],
       "uninstallers": []
     }
   ],
