@@ -237,122 +237,52 @@
         }
       ]
     }, {
-      "name": "MIUI",
-      "sdks": [21, 22, 23],
-      "author": "SolarWarez",
+      "name": "UNITY",
+      "sdks": [24, 25, 26],
+      "author": "TimMods",
       "stable": true,
       "compatibility": {
-        "21": "Only MIUI ROMs",
-        "22": "Only MIUI ROMs",
-        "23": "Only MIUI ROMs"
+        "24": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones",
+        "25": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones",
+        "26": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones"
       },
       "incompatibility": {
-        "21": "All other ROMs",
-        "22": "All other ROMs",
-        "23": "All other ROMs"
+        "24": "No incompatibility",
+        "25": "No incompatibility",
+        "26": "No incompatibility"
       },
       "support": {
-        "21": "http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634",
-        "22": "http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634",
-        "23": "http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634"
+        "24": "http://forum.xda-developers.com/xposed/10-31-2017-xposed-framework-v88-2-t3697756",
+        "25": "http://forum.xda-developers.com/xposed/10-31-2017-xposed-framework-v88-2-t3697756",
+        "26": "http://forum.xda-developers.com/xposed/10-31-2017-xposed-framework-v88-2-t3697756"
       },
       "installers": {
-        "21": [
+        "24": [
           {
-            "name": "xposed-v87-sdk21-arm-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950447&d=1480267001",
-            "architecture": "arm"
-          },
-          {
-            "name": "xposed-v87-sdk21-arm64-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950448&d=1480267001",
-            "architecture": "arm64"
-          },
-          {
-            "name": "xposed-v87-sdk21-x86-MIUI-edition-by-SolarWarez-20161126",
-            "version": "86",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3808711&d=1468147974",
-            "architecture": "x86"
-          }, {
-            "name": "xposed-v87-sdk21-Magisk-MIUI-edition-by-SolarWarez-20161127",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950449&d=1480267001",
+            "name": "Xposed-Framework-Unity",
+            "version": "v89/90b3r5",
+            "link": "https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity/archive/master.zip",
             "architecture": "all"
           }
         ],
-        "22": [
+        "25": [
           {
-            "name": "xposed-v87-sdk22-arm-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950451&d=1480267032",
-            "architecture": "arm"
-          },
-          {
-            "name": "xposed-v87-sdk22-arm64-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950452&d=1480267032",
-            "architecture": "arm64"
-          },
-          {
-            "name": "xposed-v86-sdk22-x86-MIUI-edition-by-SolarWarez-20161126",
-            "version": "86",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3776505&d=1465396125",
-            "architecture": "x86"
-          },
-          {
-            "name": "xposed-v87-sdk22-Magisk-MIUI-edition-by-SolarWarez-20161127",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950453&d=1480267032",
+            "name": "Xposed-Framework-Unity",
+            "version": "v89/90b3r5",
+            "link": "https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity/archive/master.zip",
             "architecture": "all"
           }
         ],
-        "23": [
+        "26": [
           {
-            "name": "xposed-v87-sdk23-arm-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950454&d=1480267104",
-            "architecture": "arm"
-          },
-          {
-            "name": "xposed-v87-sdk23-arm64-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950455&d=1480267104",
-            "architecture": "arm64"
-          },
-          {
-            "name": "xposed-v87-sdk23-x86-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3808717&d=1468148337",
-            "architecture": "x86"
-          },
-          {
-            "name": "xposed-v87-sdk23-Magisk-MIUI-edition-by-SolarWarez-20161127",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950456&d=1480267116",
+            "name": "Xposed-Framework-Unity",
+            "version": "v89/90b3r5",
+            "link": "https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity/archive/master.zip",
             "architecture": "all"
           }
         ]
       },
-      "uninstallers": [
-        {
-          "name": "xposed-uninstaller-20160829-arm",
-          "version": "20160829",
-          "link": "http://dl-xda.xposed.info/framework/uninstaller/xposed-uninstaller-20160829-arm.zip",
-          "architecture": "arm"
-        }, {
-          "name": "xposed-uninstaller-20160829-arm64",
-          "version": "20160829",
-          "link": "http://dl-xda.xposed.info/framework/uninstaller/xposed-uninstaller-20160829-arm64.zip",
-          "architecture": "arm64"
-        }, {
-          "name": "xposed-uninstaller-20160829-x86",
-          "version": "20160829",
-          "link": "http://dl-xda.xposed.info/framework/uninstaller/xposed-uninstaller-20160829-x86.zip",
-          "architecture": "x86"
-        }
-      ]
+      "uninstallers": []
     }
   ],
   "apk": {
