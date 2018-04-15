@@ -6,16 +6,16 @@
       "author": "rovo89",
       "stable": true,
       "compatibility": {
-        "16": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices",
-        "17": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices",
-        "18": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices",
-        "19": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices",
-        "21": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices",
-        "22": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices",
-        "23": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices",
-        "24": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices",
-        "25": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices",
-        "26": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices"
+        "16": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices",
+        "17": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices",
+        "18": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices",
+        "19": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices",
+        "21": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices",
+        "22": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices",
+        "23": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices",
+        "24": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices",
+        "25": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices",
+        "26": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices"
       },
       "incompatibility": {
         "16": "No incompatibility",
@@ -239,7 +239,7 @@
     }, {
       "name": "UNITY",
       "sdks": [24, 25, 26],
-      "author": "TimMods",
+      "author": "rovo89, ahrion, zackptg5",
       "stable": true,
       "compatibility": {
         "24": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones",
