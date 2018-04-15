@@ -259,77 +259,24 @@
       "installers": {
         "24": [
           {
-            "name": "xposed-v87-sdk21-arm-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950447&d=1480267001",
-            "architecture": "arm"
-          },
-          {
-            "name": "xposed-v87-sdk21-arm64-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950448&d=1480267001",
-            "architecture": "arm64"
-          },
-          {
-            "name": "xposed-v87-sdk21-x86-MIUI-edition-by-SolarWarez-20161126",
-            "version": "86",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3808711&d=1468147974",
-            "architecture": "x86"
-          }, {
             "name": "xposed-v87-sdk21-Magisk-MIUI-edition-by-SolarWarez-20161127",
-            "version": "87",
+            "version": "90",
             "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950449&d=1480267001",
             "architecture": "all"
           }
         ],
         "25": [
           {
-            "name": "xposed-v87-sdk22-arm-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950451&d=1480267032",
-            "architecture": "arm"
-          },
-          {
-            "name": "xposed-v87-sdk22-arm64-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950452&d=1480267032",
-            "architecture": "arm64"
-          },
-          {
-            "name": "xposed-v86-sdk22-x86-MIUI-edition-by-SolarWarez-20161126",
-            "version": "86",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3776505&d=1465396125",
-            "architecture": "x86"
-          },
-          {
             "name": "xposed-v87-sdk22-Magisk-MIUI-edition-by-SolarWarez-20161127",
-            "version": "87",
+            "version": "90",
             "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950453&d=1480267032",
             "architecture": "all"
           }
         ],
         "26": [
           {
-            "name": "xposed-v87-sdk23-arm-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950454&d=1480267104",
-            "architecture": "arm"
-          },
-          {
-            "name": "xposed-v87-sdk23-arm64-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950455&d=1480267104",
-            "architecture": "arm64"
-          },
-          {
-            "name": "xposed-v87-sdk23-x86-MIUI-edition-by-SolarWarez-20161126",
-            "version": "87",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3808717&d=1468148337",
-            "architecture": "x86"
-          },
-          {
             "name": "xposed-v87-sdk23-Magisk-MIUI-edition-by-SolarWarez-20161127",
-            "version": "87",
+            "version": "90",
             "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950456&d=1480267116",
             "architecture": "all"
           }
