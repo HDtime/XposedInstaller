@@ -259,25 +259,25 @@
       "installers": {
         "24": [
           {
-            "name": "xposed-v87-sdk21-Magisk-MIUI-edition-by-SolarWarez-20161127",
-            "version": "90",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950449&d=1480267001",
+            "name": "Xposed-Framework-Unity",
+            "version": "v89/90b3r5",
+            "link": "https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity/archive/master.zip",
             "architecture": "all"
           }
         ],
         "25": [
           {
-            "name": "xposed-v87-sdk22-Magisk-MIUI-edition-by-SolarWarez-20161127",
-            "version": "90",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950453&d=1480267032",
+            "name": "Xposed-Framework-Unity",
+            "version": "v89/90b3r5",
+            "link": "https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity/archive/master.zip",
             "architecture": "all"
           }
         ],
         "26": [
           {
-            "name": "xposed-v87-sdk23-Magisk-MIUI-edition-by-SolarWarez-20161127",
-            "version": "90",
-            "link": "http://forum.xda-developers.com/attachment.php?attachmentid=3950456&d=1480267116",
+            "name": "Xposed-Framework-Unity",
+            "version": "v89/90b3r5",
+            "link": "https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity/archive/master.zip",
             "architecture": "all"
           }
         ]
