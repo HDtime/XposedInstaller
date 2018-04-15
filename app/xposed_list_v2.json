@@ -151,7 +151,7 @@
         ],
         "25": [
           {
-            "name": "xposed-v89.0-sdk24-topjohnwu",
+            "name": "xposed-v89.0-sdk25-topjohnwu",
             "version": "89.0",
             "link": "https://forum.xda-developers.com/attachment.php?attachmentid=4364279&d=1513624634",
             "architecture": "all"
@@ -159,9 +159,9 @@
         ],
         "26": [
           {
-            "name": "xposed-v89.0-sdk25-topjohnwu",
-            "version": "89.0",
-            "link": "https://forum.xda-developers.com/attachment.php?attachmentid=4364280&d=1513624647",
+            "name": "xposed-v90.1-sdk26-beta3-topjohnwu",
+            "version": "90.1-beta3",
+            "link": "https://forum.xda-developers.com/attachment.php?attachmentid=4403738&d=1517255869",
             "architecture": "all"
           }
         ]
@@ -169,23 +169,23 @@
       "uninstallers": []
     }, {
       "name": "SAMSUNG",
-      "sdks": [21, 22, 26],
+      "sdks": [21, 22, 23],
       "author": "wanam, dkcldark",
       "stable": true,
       "compatibility": {
         "21": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones",
         "22": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones",
-        "26": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones"
+        "23": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones"
       },
       "incompatibility": {
         "21": "No incompatibility",
         "22": "No incompatibility",
-        "26": "No incompatibility"
+        "23": "No incompatibility"
       },
       "support": {
         "21": "https://forum.xda-developers.com/xposed/unofficial-xposed-samsung-lollipop-5-0-x-t3455992",
         "22": "https://forum.xda-developers.com/xposed/unofficial-xposed-samsung-lollipop-t3180960",
-        "26": "https://forum.xda-developers.com/xposed/unofficial-xposed-samsung-lollipop-t3180960"
+        "23": "https://forum.xda-developers.com/xposed/unofficial-xposed-samsung-lollipop-t3180960"
       },
       "installers": {
         "21": [
@@ -209,7 +209,7 @@
             "architecture": "arm64"
           }
         ],
-        "26": [
+        "23": [
           {
             "name": "xposed-v87.1-sdk23-arm-custom-build-by-wanam-20161125",
             "version": "87.1",
@@ -238,23 +238,23 @@
       ]
     }, {
       "name": "MIUI",
-      "sdks": [21, 22, 26],
+      "sdks": [21, 22, 23],
       "author": "SolarWarez",
       "stable": true,
       "compatibility": {
         "21": "Only MIUI ROMs",
         "22": "Only MIUI ROMs",
-        "26": "Only MIUI ROMs"
+        "23": "Only MIUI ROMs"
       },
       "incompatibility": {
         "21": "All other ROMs",
         "22": "All other ROMs",
-        "26": "All other ROMs"
+        "23": "All other ROMs"
       },
       "support": {
         "21": "http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634",
         "22": "http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634",
-        "26": "http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634"
+        "23": "http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634"
       },
       "installers": {
         "21": [
@@ -308,7 +308,7 @@
             "architecture": "all"
           }
         ],
-        "26": [
+        "23": [
           {
             "name": "xposed-v87-sdk23-arm-MIUI-edition-by-SolarWarez-20161126",
             "version": "87",
