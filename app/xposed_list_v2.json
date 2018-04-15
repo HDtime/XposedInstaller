@@ -2,7 +2,7 @@
   "tabs": [
     {
       "name": "OFFICIAL",
-      "sdks": [15, 16, 17, 18, 19, 21, 22, 23, 24, 25],
+      "sdks": [15, 16, 17, 18, 19, 21, 22, 23, 24, 26],
       "author": "rovo89",
       "stable": true,
       "compatibility": {
@@ -15,7 +15,7 @@
         "22": "All AOSP ROM, Nexus, LG, HTC, Huawei, Asus devices",
         "23": "All AOSP ROM, Nexus, LG, HTC, Huawei, Asus devices",
         "24": "All AOSP ROM, Nexus, LG, HTC, Huawei, Asus devices",
-        "25": "All AOSP ROM, Nexus, LG, HTC, Huawei, Asus devices"
+        "26": "All AOSP ROM, Nexus, LG, HTC, Huawei, Asus devices"
       },
       "incompatibility": {
         "15": "No incompatibility",
@@ -27,7 +27,7 @@
         "22": "Samsung ROMs",
         "23": "Samsung ROMs",
         "24": "Samsung ROMs",
-        "25": "Samsung ROMs"
+        "26": "No incompatibility"
       },
       "support": {
         "15": "http://forum.xda-developers.com/xposed",
@@ -39,7 +39,7 @@
         "22": "http://forum.xda-developers.com/xposed/official-xposed-lollipop-t3030118",
         "23": "http://forum.xda-developers.com/xposed/discussion-xposed-marshmallow-t3249095",
         "24": "https://forum.xda-developers.com/xposed/discussion-xposed-nougat-t3685687",
-        "25": "https://forum.xda-developers.com/xposed/discussion-xposed-nougat-t3685687"
+        "26": "https://forum.xda-developers.com/xposed/discussion-xposed-nougat-t3685687"
       },
       "installers": {
         "15": [
@@ -108,7 +108,7 @@
       ]
     }, {
       "name": "SYSTEMLESS",
-      "sdks": [21, 22, 23, 24, 25],
+      "sdks": [21, 22, 23, 24, 26],
       "author": "topjohnwu",
       "stable": true,
       "compatibility": {
@@ -116,21 +116,21 @@
         "22": "All AOSP-based ROMs, Samsung ROMs; Nexus, LG, HTC, Asus, Pixel C devices",
         "23": "All AOSP-based ROMs, Samsung ROMs; Nexus, LG, HTC, Asus, Pixel C devices",
         "24": "All AOSP-based ROMs, Samsung ROMs; Nexus, LG, HTC, Asus, Pixel C devices",
-        "25": "All AOSP-based ROMs, Samsung ROMs; Nexus, LG, HTC, Asus, Pixel C devices"
+        "26": "All AOSP-based ROMs, Samsung ROMs; Nexus, LG, HTC, Asus, Pixel C devices"
       },
       "incompatibility": {
         "21": "No incompatibility",
         "22": "No incompatibility",
         "23": "No incompatibility",
         "24": "No incompatibility",
-        "25": "No incompatibility"
+        "26": "No incompatibility"
       },
       "support": {
         "21": "http://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268",
         "22": "http://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268",
         "23": "http://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268",
         "24": "http://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268",
-        "25": "http://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268"
+        "26": "http://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268"
       },
       "installers": {
         "21": [
@@ -165,7 +165,7 @@
             "architecture": "all"
           }
         ],
-        "25": [
+        "26": [
           {
             "name": "xposed-v89.0-sdk25-topjohnwu",
             "version": "89.0",
@@ -177,23 +177,23 @@
       "uninstallers": []
     }, {
       "name": "SAMSUNG",
-      "sdks": [21, 22, 23],
+      "sdks": [21, 22, 26],
       "author": "wanam, dkcldark",
       "stable": true,
       "compatibility": {
         "21": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones",
         "22": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones",
-        "23": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones"
+        "26": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones"
       },
       "incompatibility": {
         "21": "No incompatibility",
         "22": "No incompatibility",
-        "23": "No incompatibility"
+        "26": "No incompatibility"
       },
       "support": {
         "21": "https://forum.xda-developers.com/xposed/unofficial-xposed-samsung-lollipop-5-0-x-t3455992",
         "22": "https://forum.xda-developers.com/xposed/unofficial-xposed-samsung-lollipop-t3180960",
-        "23": "https://forum.xda-developers.com/xposed/unofficial-xposed-samsung-lollipop-t3180960"
+        "26": "https://forum.xda-developers.com/xposed/unofficial-xposed-samsung-lollipop-t3180960"
       },
       "installers": {
         "21": [
@@ -217,7 +217,7 @@
             "architecture": "arm64"
           }
         ],
-        "23": [
+        "26": [
           {
             "name": "xposed-v87.1-sdk23-arm-custom-build-by-wanam-20161125",
             "version": "87.1",
@@ -246,23 +246,23 @@
       ]
     }, {
       "name": "MIUI",
-      "sdks": [21, 22, 23],
+      "sdks": [21, 22, 26],
       "author": "SolarWarez",
       "stable": true,
       "compatibility": {
         "21": "Only MIUI ROMs",
         "22": "Only MIUI ROMs",
-        "23": "Only MIUI ROMs"
+        "26": "Only MIUI ROMs"
       },
       "incompatibility": {
         "21": "All other ROMs",
         "22": "All other ROMs",
-        "23": "All other ROMs"
+        "26": "All other ROMs"
       },
       "support": {
         "21": "http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634",
         "22": "http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634",
-        "23": "http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634"
+        "26": "http://forum.xda-developers.com/xposed/unofficial-xposed-miui-t3367634"
       },
       "installers": {
         "21": [
@@ -316,7 +316,7 @@
             "architecture": "all"
           }
         ],
-        "23": [
+        "26": [
           {
             "name": "xposed-v87-sdk23-arm-MIUI-edition-by-SolarWarez-20161126",
             "version": "87",
