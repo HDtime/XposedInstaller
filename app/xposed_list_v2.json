@@ -2,11 +2,10 @@
   "tabs": [
     {
       "name": "OFFICIAL",
-      "sdks": [15, 16, 17, 18, 19, 21, 22, 23, 24, 26],
+      "sdks": [16, 17, 18, 19, 21, 22, 23, 24, 25, 26],
       "author": "rovo89",
       "stable": true,
       "compatibility": {
-        "15": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices",
         "16": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices",
         "17": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices",
         "18": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices",
@@ -15,10 +14,10 @@
         "22": "All AOSP ROM, Nexus, LG, HTC, Huawei, Asus devices",
         "23": "All AOSP ROM, Nexus, LG, HTC, Huawei, Asus devices",
         "24": "All AOSP ROM, Nexus, LG, HTC, Huawei, Asus devices",
+        "25": "All AOSP ROM, Nexus, LG, HTC, Huawei, Asus devices",
         "26": "All AOSP ROM, Nexus, LG, HTC, Huawei, Asus devices"
       },
       "incompatibility": {
-        "15": "No incompatibility",
         "16": "No incompatibility",
         "17": "No incompatibility",
         "18": "No incompatibility",
@@ -27,10 +26,10 @@
         "22": "Samsung ROMs",
         "23": "Samsung ROMs",
         "24": "Samsung ROMs",
+        "25": "No incompatibility",
         "26": "No incompatibility"
       },
       "support": {
-        "15": "http://forum.xda-developers.com/xposed",
         "16": "http://forum.xda-developers.com/xposed",
         "17": "http://forum.xda-developers.com/xposed",
         "18": "http://forum.xda-developers.com/xposed",
@@ -39,17 +38,10 @@
         "22": "http://forum.xda-developers.com/xposed/official-xposed-lollipop-t3030118",
         "23": "http://forum.xda-developers.com/xposed/discussion-xposed-marshmallow-t3249095",
         "24": "https://forum.xda-developers.com/xposed/discussion-xposed-nougat-t3685687",
+        "25": "https://forum.xda-developers.com/xposed/discussion-xposed-nougat-t3685687",
         "26": "https://forum.xda-developers.com/xposed/discussion-xposed-nougat-t3685687"
       },
       "installers": {
-        "15": [
-          {
-            "name": "Xposed-Installer-Recovery",
-            "version": "58",
-            "link": "https://github.com/DVDAndroid/XposedInstaller/blob/material/app/Xposed-Installer-Recovery.zip?raw=true",
-            "architecture": "all"
-          }
-        ],
         "16": [
           {
             "name": "Xposed-Installer-Recovery",
@@ -108,39 +100,31 @@
       ]
     }, {
       "name": "SYSTEMLESS",
-      "sdks": [21, 22, 23, 24, 26],
+      "sdks": [22, 23, 24, 25, 26],
       "author": "topjohnwu",
       "stable": true,
       "compatibility": {
-        "21": "All AOSP-based ROMs, Samsung ROMs; Nexus, LG, HTC, Asus, Pixel C devices",
         "22": "All AOSP-based ROMs, Samsung ROMs; Nexus, LG, HTC, Asus, Pixel C devices",
         "23": "All AOSP-based ROMs, Samsung ROMs; Nexus, LG, HTC, Asus, Pixel C devices",
         "24": "All AOSP-based ROMs, Samsung ROMs; Nexus, LG, HTC, Asus, Pixel C devices",
+        "25": "All AOSP-based ROMs, Samsung ROMs; Nexus, LG, HTC, Asus, Pixel C devices",
         "26": "All AOSP-based ROMs, Samsung ROMs; Nexus, LG, HTC, Asus, Pixel C devices"
       },
       "incompatibility": {
-        "21": "No incompatibility",
         "22": "No incompatibility",
         "23": "No incompatibility",
         "24": "No incompatibility",
+        "25": "No incompatibility",
         "26": "No incompatibility"
       },
       "support": {
-        "21": "http://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268",
         "22": "http://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268",
         "23": "http://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268",
         "24": "http://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268",
+        "25": "http://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268",
         "26": "http://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268"
       },
       "installers": {
-        "21": [
-          {
-            "name": "xposed-v89.0-sdk21-topjohnwu",
-            "version": "89.0",
-            "link": "https://forum.xda-developers.com/attachment.php?attachmentid=4364275&d=1513624591",
-            "architecture": "all"
-          }
-        ],
         "22": [
           {
             "name": "xposed-v89.0-sdk22-topjohnwu",
@@ -158,6 +142,14 @@
           }
         ],
         "24": [
+          {
+            "name": "xposed-v89.0-sdk24-topjohnwu",
+            "version": "89.0",
+            "link": "https://forum.xda-developers.com/attachment.php?attachmentid=4364279&d=1513624634",
+            "architecture": "all"
+          }
+        ],
+        "25": [
           {
             "name": "xposed-v89.0-sdk24-topjohnwu",
             "version": "89.0",
