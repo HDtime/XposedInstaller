@@ -239,7 +239,7 @@
     }, {
       "name": "UNITY",
       "sdks": [24, 25, 26],
-      "author": "rovo89, ahrion, zackptg5",
+      "author": "rovo89, ahrion, zackptg5 & TimMods",
       "stable": true,
       "compatibility": {
         "24": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices",
@@ -259,25 +259,25 @@
       "installers": {
         "24": [
           {
-            "name": "Xposed-Framework-Unity",
+            "name": "xposed-framework-unity-r5",
             "version": "v89/90b3r5",
-            "link": "https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity/archive/master.zip",
+            "link": "http://tim.frl/xposed-framework-unity-r5.zip",
             "architecture": "all"
           }
         ],
         "25": [
           {
-            "name": "Xposed-Framework-Unity",
+            "name": "xposed-framework-unity-r5",
             "version": "v89/90b3r5",
-            "link": "https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity/archive/master.zip",
+            "link": "http://tim.frl/xposed-framework-unity-r5.zip",
             "architecture": "all"
           }
         ],
         "26": [
           {
-            "name": "Xposed-Framework-Unity",
+            "name": "xposed-framework-unity-r5",
             "version": "v89/90b3r5",
-            "link": "https://github.com/Magisk-Modules-Repo/Xposed-Framework-Unity/archive/master.zip",
+            "link": "http://tim.frl/xposed-framework-unity-r5.zip",
             "architecture": "all"
           }
         ]
