@@ -242,9 +242,9 @@
       "author": "rovo89, ahrion, zackptg5",
       "stable": true,
       "compatibility": {
-        "24": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones",
-        "25": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones",
-        "26": "All AOSP and Samsung ROM; Nexus, LG, HTC, Asus devices. <b>Note: alt</b> version is for Samsung Note phones"
+        "24": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices",
+        "25": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices",
+        "26": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices"
       },
       "incompatibility": {
         "24": "No incompatibility",
