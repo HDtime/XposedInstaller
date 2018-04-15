@@ -239,7 +239,7 @@
     }, {
       "name": "UNITY",
       "sdks": [24, 25, 26],
-      "author": "rovo89, ahrion, zackptg5 & TimMods",
+      "author": "rovo89, ahrion, zackptg5",
       "stable": true,
       "compatibility": {
         "24": "All AOSP and Samsung ROMs; Nexus, LG, HTC, Asus devices",
