@@ -263,6 +263,11 @@
             "version": "v89/90b3r5",
             "link": "http://tim.frl/xposed-framework-unity-r5.zip",
             "architecture": "all"
+          }, {
+            "name": "xposed-framework-unity-r6",
+            "version": "v89/90b3r6",
+            "link": "http://tim.frl/xposed-framework-unity-r6.zip",
+            "architecture": "all"
           }
         ],
         "25": [
@@ -271,6 +276,11 @@
             "version": "v89/90b3r5",
             "link": "http://tim.frl/xposed-framework-unity-r5.zip",
             "architecture": "all"
+          }, {
+            "name": "xposed-framework-unity-r6",
+            "version": "v89/90b3r6",
+            "link": "http://tim.frl/xposed-framework-unity-r6.zip",
+            "architecture": "all"
           }
         ],
         "26": [
@@ -278,6 +288,11 @@
             "name": "xposed-framework-unity-r5",
             "version": "v89/90b3r5",
             "link": "http://tim.frl/xposed-framework-unity-r5.zip",
+            "architecture": "all"
+          }, {
+            "name": "xposed-framework-unity-r6",
+            "version": "v89/90b3r6",
+            "link": "http://tim.frl/xposed-framework-unity-r6.zip",
             "architecture": "all"
           }
         ]
